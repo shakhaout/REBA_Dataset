@@ -7,7 +7,7 @@
 Our REBA dataset can be merged with Human3.6m dataset's 3D body joint keypoints. Go to [Human3.6m](http://vision.imar.ro/human3.6m/description.php) dataset *Download* tab. From *TRAINING DATA* go to *By subjet* and download *D3 Positions mono*  Poses for subject S1, S5, S6, S7, S8, S8, S9, S10 & S11. Extract the tar files and concat. Finally these keypoints data can be merged with our REBA Dataset.
 
 ## Citation
-Please cite the following paper:
+Please cite this paper:
 ```
 @ARTICLE{10286039,
   author={Hossain, Md. Shakhaout and Azam, Sami and Karim, Asif and Montaha, Sidratul and Quadir, Ryana and De Boer, Friso and Altaf-Ul-Amin, Md.},
